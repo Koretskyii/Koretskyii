@@ -28,24 +28,34 @@ Building production-grade web applications with clean and maintainable code.
 
 ## 🚀 Featured Projects
 
-### Urban civic ecosystem
-Short description of the project.  
-**Tech:** React, Next.js, NestJS, PostgreSQL  
-**Highlights:** Key features or things that make it special (SSR, dashboards, user roles, etc.)
+### Urban Civic Multifunctional App
+A civic platform enabling structured interaction between citizens and the municipality — featuring a
+community space for public discussions, collaborative creation of projects and events, city problem
+requests submitted to the municipality for resolution, and active civic participation in a unified digital
+environment. 
+
+**Tech:** TypeScript, Next.js, AJAX, TanStack Query, Zustand, MUI, NestJS, Prisma ORM, Passport.js (JWT, Local, OAuth),
+PostgreSQL, Jest, ESLint, Prettier 
+
+**Highlights:**
 
 ### Movie explorer
-Short description of the project.  
-**Tech:** React, Effector, TypeScript  
-**Highlights:** Key features or notable aspects.
+Built a full-stack app for fast movie search by title and quick overview, with virtualized lists via React
+Virtuoso for high-performance rendering of large datasets.  
+
+**Tech:** TypeScript, Next.js, AJAX, Zustand, React Virtuoso, MUI, NestJS, Prisma, Passport.js (JWT & Local), Jest  
+
+**Highlights:** 
 
 ---
 
 ## 💡 About Me
 
-- Passionate about creating clean, maintainable code and scalable web applications  
-- Strong interest in full-stack development, especially React + Next.js frontend and NestJS backend  
-- Enjoy learning new technologies and improving coding practices  
-- Open to contributing to interesting projects and collaborating with teams  
+Working in cross-functional teams with involvement across the full development lifecycle — from initial discussions to production release.
+
+Early clarification of requirements, clear alignment between stakeholders, and attention to delivery quality are core principles.
+
+Clean, maintainable architecture and reliable, scalable solutions remain the primary focus.
 
 ---
 
