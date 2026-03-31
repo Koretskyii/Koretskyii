@@ -37,17 +37,44 @@ environment.
 **Tech:** TypeScript, Next.js, AJAX, TanStack Query, Zustand, MUI, NestJS, Prisma ORM, Passport.js (JWT, Local, OAuth),
 PostgreSQL, Jest, ESLint, Prettier 
 
+
 **Highlights:**
 
+- Architected modular backend structure with NestJS for scalability and maintainability
+
+- Implemented authentication flows including JWT, Local strategy, and OAuth providers
+
+- Optimized data fetching and caching using TanStack Query
+
+- Designed normalized PostgreSQL schema and managed migrations via Prisma
+
+- Ensured secure API design with validation, guards, and access control layers
+
+[Repo link](https://github.com/Koretskyii/urban-civic-ecosystem)
+---
 ### Movie explorer
 Built a full-stack app for fast movie search by title and quick overview, with virtualized lists via React
 Virtuoso for high-performance rendering of large datasets.  
 
 **Tech:** TypeScript, Next.js, AJAX, Zustand, React Virtuoso, MUI, NestJS, Prisma, Passport.js (JWT & Local), Jest  
 
-**Highlights:** 
+![telegram-cloud-photo-size-2-5357557654487767154-y](https://github.com/user-attachments/assets/060e6f99-5209-4be8-8203-beed718645b5)
 
+**Highlights:** 
+- Implemented high-performance virtualized movie lists with React Virtuoso for smooth rendering of large datasets.
+
+- Built dynamic movie search with debounced API calls and fast client-server interactions.
+  
+- Developed secure authentication and protected routes using Passport.js (JWT & Local).
+  
+- Designed REST API with NestJS and Prisma ORM for reliable data access.
+  
+- Created responsive UI components using MUI for consistent styling and improved user experience.
+
+
+[Repo link](https://github.com/Koretskyii/movie-explorer)
 ---
+
 
 ## 💡 About Me
 
@@ -61,8 +88,8 @@ Clean, maintainable architecture and reliable, scalable solutions remain the pri
 
 ## 📫 Contact
 
-- Email: [yuriykoretskiy999@gmail.com]  
-- LinkedIn: [https://linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/yurii-koretskyi-2591631b5/))  
+- Email: [yuriykoretskiy999@gmail.com](yuriykoretskiy999@gmail.com)
+- LinkedIn: [LinkedIn/Profile](https://www.linkedin.com/in/yurii-koretskyi-2591631b5/)
 
 ---
 
